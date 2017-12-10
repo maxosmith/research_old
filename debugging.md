@@ -1,0 +1,3 @@
+- Overfit on small dataset.
+- Ensure all variables in graph change.
+- Non-zero loss.
