@@ -1,0 +1,31 @@
+[TTIC 31230: Fundamentals of Deep Learning](http://ttic.uchicago.edu/~dmcallester/DeepClass/class.html)
+
+[CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+
+[CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
+
+[CS 231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)
+
+[CS 224D: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+
+[CSC 2506: Probabilistic Learning and Reasoning](https://www.cs.toronto.edu/~duvenaud/courses/csc412/index.html)
+
+[CSC 2506: Probabilistic Graphical Models](http://www.cs.toronto.edu/~zemel/inquiry/courses_home.php)
+
+[CSC 2535: Advanced Machine Learning](http://www.cs.toronto.edu/~hinton/csc2535/)
+
+[CSC 2541: Scalable and Flexible Models of Uncertainty](https://csc2541-f17.github.io/)
+
+[CSC 2541: Differentiable Inference and Generative Models](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
+
+[STA D37H: Multivariate Analysis](http://www.utstat.toronto.edu/~rsalakhu/StaD37H/)
+
+[ECE 521: Inference Algorithms and Machine Learning](https://ece521.github.io/)
+
+[IFT 6085: Theoretical Principles for Deep Learning](http://mitliagkas.github.io/ift6085-dl-theory-class/)
+
+[IFT 6266: Deep Learning](https://ift6266h17.wordpress.com/)
+
+[STAT 212b: Topics Course on Deep Learning](https://github.com/joanbruna/stat212b)
+
+[EECS 598: Unsupervised Feature Learning](http://web.eecs.umich.edu/~honglak/teaching/eecs598/schedule.html)
