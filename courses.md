@@ -1,9 +1,3 @@
-## Berkeley
-
-[CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
-
-[STAT 212b: Topics Course on Deep Learning](https://github.com/joanbruna/stat212b)
-
 ## Carnegie Mellon University
 
 [10-601: Machine Learning](http://www.cs.cmu.edu/~ninamf/courses/601sp15/)
@@ -48,6 +42,12 @@
 
 [Udacity: Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
 
+## University of California, Berkeley
+
+[CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+
+[STAT 212b: Topics Course on Deep Learning](https://github.com/joanbruna/stat212b)
+
 ## University of Buffalo
 
 [CSE 574: Introduction to Machine Learning](http://www.cedar.buffalo.edu/~srihari/CSE574/)
@@ -64,7 +64,13 @@
 
 [IFT 6085: Theoretical Principles for Deep Learning](http://mitliagkas.github.io/ift6085-dl-theory-class/)
 
-[IFT 6266: Deep Learning](https://ift6266h17.wordpress.com/)
+[IFT 6132: Advanced Structured Prediction and Optimization](http://www.iro.umontreal.ca/~slacoste/teaching/ift6085/W17/)
+
+[IFT 6266: Deep Learning - Bengio](https://ift6266h16.wordpress.com/)
+
+[IFT 6266: Deep Learning - Courville](https://ift6266h17.wordpress.com/)
+
+[IFT 6269: Probabilistic Graphical Models](http://www.iro.umontreal.ca/~slacoste/teaching/ift6269/A16/)
 
 ## University of Sheffield
 
