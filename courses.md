@@ -1,3 +1,6 @@
+# Courses
+A collection of open-source course content.
+
 ## Carnegie Mellon University
 
 [10-601: Machine Learning](http://www.cs.cmu.edu/~ninamf/courses/601sp15/)
