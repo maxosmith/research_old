@@ -6,7 +6,7 @@ Each `*.md` document contains their respective information, so explore at your o
 
 ## Draft
 Because this is repository is in a super early draft form, I've provided a list of the "started" resources:
- - [`courses.md`]
+ - [`courses.md`](https://github.com/MaxOSmith/research/blob/master/courses.md)
  - [`reading/README.md`](https://github.com/MaxOSmith/research/blob/master/reading/README.md)
  - [`reading/groups`]()
  - [`reading/lists/reinforcement_learning`](https://github.com/MaxOSmith/research/blob/master/reading/lists/reinforcement_learning.md)
