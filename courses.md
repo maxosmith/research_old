@@ -10,6 +10,10 @@
 
 [CS 5780: Machine Learning](https://courses.cis.cornell.edu/cs4780/2017sp/)
 
+## European Summer School in Logic, Language, and Information
+
+[Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/teaching/esslli2012/)
+
 ## Stanford
 
 [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
@@ -71,6 +75,10 @@
 [IFT 6266: Deep Learning - Courville](https://ift6266h17.wordpress.com/)
 
 [IFT 6269: Probabilistic Graphical Models](http://www.iro.umontreal.ca/~slacoste/teaching/ift6269/A16/)
+
+## University of Notre Dame
+
+[Statistical Computing for Scientists and Engineers](https://www.zabaras.com/statisticalcomputing)
 
 ## University of Sheffield
 
