@@ -1,5 +1,6 @@
-[orgmode](http://orgmode.org/)
+# Emacs
+Emacs packages.
 
-[magit](https://magit.vc/)
-
-[jedi](https://github.com/tkf/emacs-jedi)
+ - [orgmode](http://orgmode.org/)
+ - [magit](https://magit.vc/)
+ - [jedi](https://github.com/tkf/emacs-jedi)
