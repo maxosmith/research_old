@@ -19,3 +19,7 @@ As you begin reading lots of papers, you'll want to organize them in some way to
  - [Mendeley](https://www.mendeley.com/)
  - [Papers3](https://www.readcube.com/papers/mac/)
  - [Zotero](https://www.zotero.org/)
+
+## Other
+
+[AI Safety](https://github.com/kkhetarpal/ais/blob/master/ReadingGroupRLLab.md)

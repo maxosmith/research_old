@@ -51,6 +51,8 @@ A collection of open-source course content.
 
 ## University of California, Berkeley
 
+[CS 294: Fairness in Machine Learning](https://fairmlclass.github.io/)
+
 [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
 
 [STAT 212b: Topics Course on Deep Learning](https://github.com/joanbruna/stat212b)
