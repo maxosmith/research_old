@@ -1,6 +1,10 @@
 # Adversarial Learning Group
 Reading group at the Université de Montréal.
 
+## 2018 Winter
+Belghazi, Ishmael, et al.. "MINE: Mutual Information Neural Estimation."
+</br>[[pdf]](https://arxiv.org/pdf/1801.04062.pdf)
+
 ## 2017 Fall
 Huang, Gabriel, et al.. "Adversarial Divergences are Good Task Losses for Generative Modeling."
 </br>[[pdf]](https://arxiv.org/pdf/1708.02511.pdf)

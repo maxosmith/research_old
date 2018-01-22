@@ -1,6 +1,10 @@
 # Neuroscience & Biology
 Reading group at the Université de Montréal.
 
+## 2018 Winter
+Urbanczik, Robert, et al.. "Reinforcemennt Learning in Populations of Spiking Neurons."
+</br>[[html]](https://www.nature.com/articles/nn.2264)
+
 ## 2017 Fall
 Marblestone, Adam, et al.. "Towards an Integration of Deep Learning and Neuroscience."
 </br>[[html]](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full)

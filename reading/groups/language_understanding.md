@@ -1,6 +1,13 @@
 # Language Understanding
 Reading group at the Université de Montréal.
 
+## 2018 Winter
+Yang, Zhilin, et al.. "Breaking the Softmax Bottleneck: A High-Rank RNN Language Model."
+</br>[[pdf]](https://arxiv.org/pdf/1711.03953.pdf)
+
+Vaswani, Ashish, et al.. "Attention Is All You Need."
+</br>[[pdf]](https://arxiv.org/pdf/1706.03762.pdf)
+
 ## 2017 Fall
 Zhao, Jieyu, et al.. "Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints."
 </br>[[pdf]](http://www.aclweb.org/anthology/D/D17/D17-1319.pdf)
