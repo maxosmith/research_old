@@ -1,6 +1,16 @@
 # Reinforcement Learning
 Reading list from Satinder Singh's group at the University of Michigan.
 
+## 2018 Winter
+Achiam, Joshua, et al.. "Constrained Policy Optimization."
+</br>[[pdf]](https://arxiv.org/pdf/1705.10528.pdf)
+
+Weber, Theophane, et al.. "Imagination-Augmented Agents for Deep Reinforcement Learning."
+</br>[[pdf]](https://arxiv.org/pdf/1707.06203.pdf)
+
+Pascanu, Razvan, et al.. "Learning model-based planning from scratch."
+</br>[[pdf]](https://arxiv.org/pdf/1707.06170.pdf)
+
 ## 2017 Fall
 Jaderberg, Max, et al.. "Reinforcement Learning with Unsupervised Auxiliary Tasks."
 </br>[[pdf]](https://arxiv.org/pdf/1611.05397.pdf)

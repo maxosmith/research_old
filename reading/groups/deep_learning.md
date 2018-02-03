@@ -1,6 +1,16 @@
 # Deep Learning
 Cross-group reading list, run by students from Honglak Lee, Satinder Singh, and Jia Deng's groups at the University of Michigan.
 
+## 2018 Winter
+Pascanu, Razvan, et al.. "Learning model-based planning from scratch."
+K/br>[[pdf]](https://arxiv.org/pdf/1707.06170.pdf)
+
+Rohrbach, Anna, et al.. "Grounding of Textual Phrases in Images by Reconstruction."
+</br>[[pdf]](https://arxiv.org/pdf/1511.03745.pdf)
+
+Li, Hao, et al.. "Visualizing the Loss Landscape of Neural Nets."
+</br>[[pdf]](https://arxiv.org/pdf/1712.09913.pdf)
+
 ## 2017 Fall
 Mishra, Nikhil, et al.. "Meta-Learning with Temporal Convolutions."
 </br>[[pdf]](https://arxiv.org/pdf/1707.03141.pdf)

@@ -2,6 +2,21 @@
 Reading group at the Université de Montréal.
 
 ## 2018 Winter
+Kubilius, Jonas. "Predict, then simplify."
+</br>[[html]](https://www.sciencedirect.com/science/article/pii/S1053811917310212)
+
+Turner, Brandon, et al.. "Outlook on deep neural networks in computational cognitive neuroscience."
+</br>[[html]](https://www.sciencedirect.com/science/article/pii/S1053811917311023)
+
+Tripp, Bryan, et al.. "A deeper understanding of the brain."
+</br>[[html]](https://www.sciencedirect.com/science/article/pii/S1053811917311035)
+
+Scholte, Steven, et al.. "Fantastic DNimals and where to find them."
+</br>[[html]](https://www.sciencedirect.com/science/article/pii/S1053811917311011?via%3Dihub#bib14)
+
+Kay, Kendrick. "Principles for models of neural information processing."
+</br>[[html]](https://www.sciencedirect.com/science/article/pii/S1053811917306638?via%3Dihub)
+
 Urbanczik, Robert, et al.. "Reinforcemennt Learning in Populations of Spiking Neurons."
 </br>[[html]](https://www.nature.com/articles/nn.2264)
 
