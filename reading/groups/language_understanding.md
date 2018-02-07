@@ -2,6 +2,9 @@
 Reading group at the Université de Montréal.
 
 ## 2018 Winter
+Yang, Zhilin, et al.. "Mastering the Dungeon: Grounded Language Learning by Mechanical Turker Descent."
+</br>[[pdf]](https://arxiv.org/pdf/1711.07950.pdf)
+
 Yang, Zhilin, et al.. "Breaking the Softmax Bottleneck: A High-Rank RNN Language Model."
 </br>[[pdf]](https://arxiv.org/pdf/1711.03953.pdf)
 
