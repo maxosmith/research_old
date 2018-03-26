@@ -18,6 +18,10 @@
 
 [TensorFlow Models](https://github.com/tensorflow/models)
 
+[Explanation of `MonitoredSession`](https://stackoverflow.com/questions/45532365/is-there-any-tutorial-for-tf-trian-sessionrunhook)
+
+[Undocumented Features for RNNs](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
+
 ## Debugging
 [TensorFlow Debugger](https://www.tensorflow.org/versions/r1.0/programmers_guide/debugger)
 
@@ -31,6 +35,10 @@
 [Gist: TF Dataset API Text](https://gist.github.com/tokestermw/cd34fde292ef5e7737e70133e0e379e1)
 
 [StackOverflow: Padded Batches for Sequence Data](https://stackoverflow.com/questions/45955241/how-do-i-create-padded-batches-in-tensorflow-for-tf-train-sequenceexample-data-u)
+
+https://medium.com/onfido-tech/higher-level-apis-in-tensorflow-67bfb602e6c0
+
+https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428
 
 ## Hyperparameters
 [HParams and YAML to Better Manager Hyperparameters](https://hanxiao.github.io/2017/12/21/Use-HParams-and-YAML-to-Better-Manage-Hyperparameters-in-Tensorflow/)

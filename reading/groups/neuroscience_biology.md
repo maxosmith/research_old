@@ -2,6 +2,12 @@
 Reading group at the Université de Montréal.
 
 ## 2018 Winter
+Elsayed, Gamaleldin, et al.. "Adversarial Examples that Fool both Human and Computer Vision."
+</br>[[pdf]](https://arxiv.org/pdf/1802.08195.pdf)
+
+Nobre, Anna and Ede, Freek. "Anticipated momenets: temporal structure in attention."
+</br>[[html]](https://www.nature.com/articles/nrn.2017.141)
+
 Kubilius, Jonas. "Predict, then simplify."
 </br>[[html]](https://www.sciencedirect.com/science/article/pii/S1053811917310212)
 

@@ -5,6 +5,8 @@ A collection of open-source course content.
 
 [10-601: Machine Learning](http://www.cs.cmu.edu/~ninamf/courses/601sp15/)
 
+[10-701: Machine Learning](http://alex.smola.org/teaching/cmu2013-10-701x/index.html)
+
 ## Coursera
 
 [Coursera: Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
@@ -17,11 +19,19 @@ A collection of open-source course content.
 
 [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/teaching/esslli2012/)
 
+## MIT
+
+[6.883: Online Methods in Machine Learning](http://www.mit.edu/~rakhlin/6.883/)
+
 ## Stanford
 
 [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 
 [CS 231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)
+
+[CS 332: Advanced Survey of Reinforcement Learning](http://cs332.stanford.edu/#!index.md)
+
+[CS 234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html)
 
 [CS 224D: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
 
@@ -67,7 +77,11 @@ A collection of open-source course content.
 
 ## University of Michigan
 
+[EECS 598: Statistical Learning Theory](http://web.eecs.umich.edu/~cscott/past_courses/eecs598w14/index.html)
+
 [EECS 598: Unsupervised Feature Learning](http://web.eecs.umich.edu/~honglak/teaching/eecs598/schedule.html)
+
+[EECS 598: Theoretical Foundations of Machine Learning](http://web.eecs.umich.edu/~jabernet/eecs598course/fall2015/web/)
 
 ## Université de Montréal
 

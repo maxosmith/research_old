@@ -2,6 +2,9 @@
 Reading group at the Université de Montréal.
 
 ## 2018 Winter
+Miyato, Takeru, et al.. "Spectral Normalization for Generative Adversarial Networks."
+</br>[[pdf]](https://openreview.net/pdf?id=B1QRgziT-)
+
 Belghazi, Ishmael, et al.. "MINE: Mutual Information Neural Estimation."
 </br>[[pdf]](https://arxiv.org/pdf/1801.04062.pdf)
 

@@ -7,6 +7,12 @@ The seminal tutorial for how to read a paper is S. Keshav's ["How to Read a Pape
 Reading a paper shouldn't end at just reading, one must go further and interact with ideas. Below are some documents that propose methods of interacting with the text:
  - [Annotations - Jason Corso](http://web.eecs.umich.edu/~jjcorso/t/542W17/files/0-542-syllabus.pdf): Pages 4-5 details techniques for annotating the paper, and summary writeups for application-oriented papers.
 
+## Finding Papers
+https://www.reddit.com/r/MachineLearning/comments/7xa3l7/d_how_do_you_guys_find_interesting_papers/
+
+https://www.reddit.com/r/MachineLearning/comments/7xzosy/d_program_generation/
+
+
 ## arXiv
 [arXiv](https://arxiv.org/) is an open access archiv of papers mainly in computational science areas (happily expanding slowly into more fields). There are some tools to further improve the arXiv experience:
  - [ArXiv Sanity Preserver](http://www.arxiv-sanity.com/)
