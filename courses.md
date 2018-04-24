@@ -23,6 +23,16 @@ A collection of open-source course content.
 
 [6.883: Online Methods in Machine Learning](http://www.mit.edu/~rakhlin/6.883/)
 
+## Oxford
+
+[Bayesian Statistics](https://www.youtube.com/watch?v=U1HbB0ATZ_A&list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm&index=1)
+
+## Princeton
+
+[COS 513: Foundations of Probabilistic Modeling](http://www.cs.princeton.edu/courses/archive/spring09/cos513/)
+
+[COS 597C: Advanced Methods in Probabilistic Modeling](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/)
+
 ## Stanford
 
 [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
@@ -60,6 +70,8 @@ A collection of open-source course content.
 [Udacity: Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
 
 ## University of California, Berkeley
+
+[CS 70: Discrete Mathematics and Probability Theory](https://inst.eecs.berkeley.edu/~cs70/su16/)
 
 [CS 294: Fairness in Machine Learning](https://fairmlclass.github.io/)
 
@@ -102,3 +114,9 @@ A collection of open-source course content.
 ## University of Sheffield
 
 [COM 6509: Machine Learning and Adaptive Intelligence](http://inverseprobability.com/mlai2015/)
+
+## University of Texas
+
+[Introduction to Stochastic Processes](https://www.ma.utexas.edu/users/gordanz/lecture_notes_page.html)
+
+[Theory of Probability, I and II](https://www.ma.utexas.edu/users/gordanz/lecture_notes_page.html)

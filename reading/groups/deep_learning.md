@@ -2,8 +2,11 @@
 Cross-group reading list, run by students from Honglak Lee, Satinder Singh, and Jia Deng's groups at the University of Michigan.
 
 ## 2018 Winter
+Hong, Seunghoon, et al.. "Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis."
+</br>[[pdf]](https://arxiv.org/pdf/1801.05091.pdf)
+
 Pascanu, Razvan, et al.. "Learning model-based planning from scratch."
-K/br>[[pdf]](https://arxiv.org/pdf/1707.06170.pdf)
+</br>[[pdf]](https://arxiv.org/pdf/1707.06170.pdf)
 
 Rohrbach, Anna, et al.. "Grounding of Textual Phrases in Images by Reconstruction."
 </br>[[pdf]](https://arxiv.org/pdf/1511.03745.pdf)

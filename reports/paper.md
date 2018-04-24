@@ -9,3 +9,6 @@
 [Heuristics for Scientific Writing](http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/)
 
 [Write the Paper First](https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html)
+
+
+https://www.youtube.com/watch?v=WP-FkUaOcOM

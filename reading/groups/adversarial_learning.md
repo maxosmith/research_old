@@ -2,6 +2,9 @@
 Reading group at the Université de Montréal.
 
 ## 2018 Winter
+Bottou, Leon, et al.. "Gemoetrical Insights for Implicit Generative Modeling."
+</br>[[pdf]](https://arxiv.org/pdf/1712.07822.pdf)
+
 Miyato, Takeru, et al.. "Spectral Normalization for Generative Adversarial Networks."
 </br>[[pdf]](https://openreview.net/pdf?id=B1QRgziT-)
 
