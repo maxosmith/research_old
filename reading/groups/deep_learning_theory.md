@@ -1,6 +1,12 @@
 # Deep Learning Theory
 
 # 2018 Winter
+Blier, Leonard, and Ollivier, Yann. "Do Deep Learning Models Have Too Many Parameters? An Information Theory Viewpoint."
+</br>[[pdf]](https://arxiv.org/pdf/1802.07044.pdf)
+
+Schwartz-Ziv, Ravid and Tishby, Naftali. "Opening the black box of Deep Neural Networks via Information."
+</br>[[pdf]](https://arxiv.org/pdf/1703.00810.pdf)
+
 Lassance, Carlos, et al.. "Matching Convolutional Neural Networks without Priors about Data."
 </br>[[pdf]](https://arxiv.org/pdf/1802.09802.pdf)
 

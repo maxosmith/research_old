@@ -7,6 +7,10 @@ A collection of open-source course content.
 
 [10-701: Machine Learning](http://alex.smola.org/teaching/cmu2013-10-701x/index.html)
 
+[10-707: Deep Learning](http://www.cs.cmu.edu/~rsalakhu/10707/lectures.html)
+
+[10-703: Deep Reinforcement Learning and Control](http://www.cs.cmu.edu/~rsalakhu/10703/)
+
 ## Coursera
 
 [Coursera: Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
@@ -76,6 +80,8 @@ A collection of open-source course content.
 [CS 294: Fairness in Machine Learning](https://fairmlclass.github.io/)
 
 [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+
+[EE 227C: Convex Optimization and Approximation](https://ee227c.github.io/)
 
 [STAT 212b: Topics Course on Deep Learning](https://github.com/joanbruna/stat212b)
 
