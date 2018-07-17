@@ -1,6 +1,13 @@
 # Language Understanding
 Reading group at the Université de Montréal.
 
+## 2018 Summer
+McCann, Bryan, et al.. "The Natural Language Decathlon: Multitask Learning as Question Answering."
+</br>[[pdf]](https://arxiv.org/pdf/1806.08730.pdf)
+
+Peters, Matthew E., et al.. "Deep contextualized word representations."
+</br>[[pdf]](https://arxiv.org/pdf/1802.05365.pdf)
+
 ## 2018 Winter
 Yang, Zhilin, et al.. "Mastering the Dungeon: Grounded Language Learning by Mechanical Turker Descent."
 </br>[[pdf]](https://arxiv.org/pdf/1711.07950.pdf)
