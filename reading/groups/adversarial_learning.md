@@ -2,6 +2,9 @@
 Reading group at the Université de Montréal.
 
 ## 2018 Winter
+Khrulkov, Valentin and Oseledets, Ivan. "Geometry Score: A Method For Comparing Generative Adversarial Networks."
+</br>[[pdf]](http://proceedings.mlr.press/v80/khrulkov18a/khrulkov18a.pdf)
+
 Bottou, Leon, et al.. "Gemoetrical Insights for Implicit Generative Modeling."
 </br>[[pdf]](https://arxiv.org/pdf/1712.07822.pdf)
 

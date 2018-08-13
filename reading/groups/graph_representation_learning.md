@@ -1,6 +1,18 @@
 # Graph Representation Learning
 
 ## 2018 Summer
+Song, Linfeng, et al.. "A Graph-to-Sequence Model for AMR-to-Text Generation."
+</br>[[pdf]](https://arxiv.org/pdf/1805.02473.pdf)
+
+Bojchevski, Aleksandar, et al.. "NetGAN: Generating Graphs via Random Walks."
+</br>[[pdf]](https://arxiv.org/pdf/1803.00816.pdf)
+
+Kipf, Thomas, et al.. "Neural Relational Inference for Interacting Systems."
+</br>[[pdf]](https://arxiv.org/pdf/1802.04687.pdf)
+
+Ying, Rex, et al.. "Hierarchical Graph Representation Learning with Differentiable Pooling."
+</br>[[pdf]](https://arxiv.org/pdf/1806.08804.pdf)
+
 You, Jiaxuan, et al.. "Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation."
 </br>[[pdf]](https://arxiv.org/pdf/1806.02473.pdf)
 

@@ -2,6 +2,12 @@
 Reading group at the Université de Montréal.
 
 ## 2018 Summer
+Dong, Li, et al.. "Coarse-to-Fine Decoding for Neural Semantic Parsing."
+</br>[[pdf]](https://arxiv.org/pdf/1805.04793.pdf)
+
+Goldmna, Omer, et al.. "Weakly Supervised Semantic Parsing with Abstract Examples."
+</br>[[pdf]](https://arxiv.org/pdf/1711.05240.pdf)
+
 McCann, Bryan, et al.. "The Natural Language Decathlon: Multitask Learning as Question Answering."
 </br>[[pdf]](https://arxiv.org/pdf/1806.08730.pdf)
 

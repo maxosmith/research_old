@@ -1,6 +1,12 @@
 # Robotics
 
 ## 2018 Summer
+Shiarlis, Kyriacos, et al.. "TACO: Learning Task Decomposition via Temporal Alignment for Control."
+</br>[[pdf]](https://arxiv.org/pdf/1803.01840.pdf)
+
+Kendall, Alex, et al.. "Learning to Drive in a Day."
+</br>[[pdf]](https://arxiv.org/pdf/1807.00412.pdf)
+
 Zhang, Fangyi, et al.. "Adversarial Discriminative Sim-to-real Transfer of Visuo-motor Policies."
 </br>[[pdf]](https://arxiv.org/pdf/1709.05746.pdf)
 

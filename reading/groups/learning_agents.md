@@ -1,6 +1,12 @@
 # Learning Agents
 
 ## 2018 Summer
+Bruce, Jake, et al.. "Learning Deployable Navigation Policies at Kilometer Scale from a Single Traversal."
+</br>[[pdf]](https://arxiv.org/pdf/1807.05211.pdf)
+
+Resnick, Cinjon, et al.. "Backplay: 'Man muss immer umkehren'."
+</br>[[pdf]](https://arxiv.org/pdf/1807.06919.pdf)
+
 Foerster, Jakob N.., et al.. "Learning with Opponent-Learning Awareness."
 </br>[[pdf]](https://arxiv.org/pdf/1709.04326.pdf)
 
