@@ -16,3 +16,7 @@ TODO, but will be a collection of tips for debugging machine learning code.
   ```python
   assert loss != 0
   ```
+- https://github.com/williamFalcon/DeepRLHacks
+- `sess.graph.finalize()` if getting slightly slower, will throw errors when operations are being added over time.
+- http://cs231n.github.io/neural-networks-3/#baby
+  Keep track of the update magnitude and the weight-value magnitudes. The ratio of these should be reasonable (1e-3).

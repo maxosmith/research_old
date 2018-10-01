@@ -2,6 +2,9 @@
 Reading group at the Université de Montréal.
 
 ## 2018 Winter
+Joliceour-Martineau, Alexia. "The relativistic discriminator: a key element missing from standard GAN."
+</br>[[arXiv]](https://arxiv.org/abs/1807.00734)
+
 Khrulkov, Valentin and Oseledets, Ivan. "Geometry Score: A Method For Comparing Generative Adversarial Networks."
 </br>[[pdf]](http://proceedings.mlr.press/v80/khrulkov18a/khrulkov18a.pdf)
 

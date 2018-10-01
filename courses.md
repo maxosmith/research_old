@@ -126,3 +126,16 @@ A collection of open-source course content.
 [Introduction to Stochastic Processes](https://www.ma.utexas.edu/users/gordanz/lecture_notes_page.html)
 
 [Theory of Probability, I and II](https://www.ma.utexas.edu/users/gordanz/lecture_notes_page.html)
+
+# To Organize
+
+— MATH PRIMER —
+
+For everyone who needs / wants a good math primer on some of the material that is usually taught in math
+undergrad:
+• metric and topological spaces: https://www.dpmms.cam.ac.uk/~twk/Top.pdf
+• linear algebra: https://www.dpmms.cam.ac.uk/study/IB/LinearAlgebra/2012-2013/linear-algebra.pdf
+• basic analysis: https://www.dpmms.cam.ac.uk/~twk/C5.pdf
+• stats: http://www.statslab.cam.ac.uk/~rrw1/stats/Sa4.pdf
+• basic probability theory: http://www.statslab.cam.ac.uk/~rrw1/prob/prob-weber.pdf
+• probability and measure theory: http://www.statslab.cam.ac.uk/~james/Lectures/pm.pdf

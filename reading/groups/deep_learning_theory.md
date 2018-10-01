@@ -1,6 +1,13 @@
 # Deep Learning Theory
 
-# 2018 Winter
+## 2018 Fall
+Arora, Sanjeev, et al.. "On the Optimization of Deep Networks: Implicit Acceleration by Overparameterizaiton."
+</br>[[pdf]](https://arxiv.org/pdf/1802.06509.pdf)
+
+## 2018 Summer
+Benjamin, Ari S., et al.. "Measuring and regularizing networks in function space."
+
+## 2018 Winter
 Blier, Leonard, and Ollivier, Yann. "Do Deep Learning Models Have Too Many Parameters? An Information Theory Viewpoint."
 </br>[[pdf]](https://arxiv.org/pdf/1802.07044.pdf)
 

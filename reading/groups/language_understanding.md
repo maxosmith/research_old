@@ -1,7 +1,20 @@
 # Language Understanding
 Reading group at the Université de Montréal.
 
+## 2018 Fall
+Shen, Yikang, et al.. "Straing to the Tree: Constituency Parsing with Neural SYntactic Distance."
+</br>[[pdf]](https://arxiv.org/pdf/1806.04168.pdf)
+
+Shen, Yikang, et al.. "Neural Language Modeling by Jointly Learning Syntax and Lexicon."
+</br>[[pdf]](https://arxiv.org/pdf/1711.02013.pdf)
+
 ## 2018 Summer
+Bojanowski, Piotr, et al.. "Enriching Word Vectors with Subword Information."
+</br>[[pdf]](https://arxiv.org/pdf/1607.04606.pdf)
+
+Joulin, Armand, et al.. "Bag of Tricks for Efficient Text Classification."
+</br>[[pdf]](https://arxiv.org/pdf/1607.01759.pdf)
+
 Dong, Li, et al.. "Coarse-to-Fine Decoding for Neural Semantic Parsing."
 </br>[[pdf]](https://arxiv.org/pdf/1805.04793.pdf)
 

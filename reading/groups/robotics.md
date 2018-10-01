@@ -1,6 +1,22 @@
 # Robotics
 
+## 2018 Fall
+Kato, Hiroharu, et al.. "Neural 3D Mesh Renderer."
+</br>[[arXiv]](https://arxiv.org/abs/1711.07566)
+
 ## 2018 Summer
+Tobin, Josh, et al.. "Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World."
+</br>[[arXiv]](https://arxiv.org/abs/1703.06907)
+
+DeVries, Terrance and Taylor, Graham W.. "Dataset Augmentation in Feature Space."
+</br>[[arXiv]](https://arxiv.org/abs/1702.05538)
+
+Perez, Luis and Wang, Jason. "The Effectiveness of Data Augmentation in Image Classification using Deep Learning."
+</br>[[arXiv]](https://arxiv.org/abs/1712.04621)
+
+Wong, Sebastien C., et al.. "Understanding data augmentation for classification: when to warp?"
+</br>[[arXiv]](https://arxiv.org/abs/1609.08764)
+
 Shiarlis, Kyriacos, et al.. "TACO: Learning Task Decomposition via Temporal Alignment for Control."
 </br>[[pdf]](https://arxiv.org/pdf/1803.01840.pdf)
 
